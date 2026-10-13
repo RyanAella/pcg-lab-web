@@ -26,7 +26,7 @@ bun run dev
 
 ## Roadmap
 
-- [ ] M1: Value noise, greyscale heightmap on canvas
+- [x] M1: Value noise, greyscale heightmap on canvas
 - [ ] M2: Perlin/Simplex, fBm octaves, seed & parameter UI
 - [ ] M3: Color ramps, PNG export
 - [ ] M4: Hydraulic erosion post-step
